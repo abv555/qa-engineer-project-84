@@ -1,9 +1,9 @@
 test-cases:
-  - summary: |
+- summary: |
      Проверка оптимизации и скороти работы
     status: fail
 
-  - summary: |
+- summary: |
     Проверка безопасности 1
     status: fail
 
