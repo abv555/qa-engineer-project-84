@@ -3,7 +3,7 @@
  environment: | 
     Яндекс Браузер   23.9.0.2272 (64-bit)
     ОС Windows 10 
-steps-to-reprodce: |
+ steps-to-reprodce: |
     1. Открываем DevTools
     2. Выбираем вкладку "низкопроизводительный телефон"
     3. Нажимаем "просмотр товара"
@@ -18,7 +18,7 @@ steps-to-reprodce: |
  environment:
     Яндекс Браузер   23.9.0.2272 (64-bit)
     ОС Windows 10 
-steps-to-reproduce:
+ steps-to-reproduce:
     1. Проверяем на стартовой странице наличие поля для ввода логина
     2. Проверяем на стартовой странице наличие поля для ввода пароля 
  expected-result:
@@ -32,7 +32,7 @@ steps-to-reproduce:
  environment:
     Яндекс Браузер   23.9.0.2272 (64-bit)
     ОС Windows 10
-steps-to-reproduce:
+ steps-to-reproduce:
     1. Открываем DevTools
     2. Выбираем на панели инструментов мобильные утройства
     3. Выбираем парметры iPhone 12 pro
