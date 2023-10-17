@@ -1,54 +1,54 @@
-- summary: |
+-summary: |
     Проверка оптимизации и скороти работы
-  status: fail
+status: fail
    
     
-- summary: |
+-summary: |
     Проверка безопасности 1
-  status: fail
+status: fail
 
   
-- summary: |
+-summary: |
     Проверка безопасности 2
-  status: pass
+status: pass
 
-- summary: |
+-summary: |
     Проверка поиска по  категории
-  status: pass
+status: pass
 
-- summary: |
+-summary: |
     Проверка поиска по ключевому слову 
-  status: pass
+status: pass
 
 
-- summary: |
+-summary: |
     Проверка возможности фильтровать товары по цене
-  status: pass
+status: pass
 
-- summary: |
+-summary: |
     Проверка возможности фильтровать товары по производителю
-  status: pass
+status: pass
 
 
-- summary: |
+-summary: |
     Проверка возможности фильтровать товары по производителю и цене
-  status: pass
+status: pass
 
-- summary: |
+-summary: |
     Проверка мобильной версии
   status: fail
 
 
     
-- summary: |
+-summary: |
     Проверка совместимости с последними версиями браузеров
-  status: pass
+status: pass
 
     
-- summary: |
+-summary: |
     Проверка  возможности просмотра товаров и просмотра подробной информацию о товаре
-  status: pass
+status: pass
 
-- summary: |
+-summary: |
     Проверка возможности добавлять товары в корзину и просматривать содержимое корзины
-   status: pass
+status: pass
