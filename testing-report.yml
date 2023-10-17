@@ -3,8 +3,8 @@
 status: fail
    
     
--summary: |
-    Проверка форм регистрации
+-summary: 
+   Проверка форм регистрации
 status: fail
 
   
