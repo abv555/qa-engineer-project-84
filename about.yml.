@@ -1,1 +1,9 @@
-
+name: Alexandr Borisov
+job: QA Engineer
+level: junior
+email: abv555@ngs.ru
+description: |
+  Интересно осваивать новое
+  Текст может быть написан в несколько абзацев
+skills: 
+  - азы С++
